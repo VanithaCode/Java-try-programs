@@ -11,7 +11,7 @@ public class Mainclass {
 		System.out.println("Enter intput");
 		int a=sc.nextInt();
 		int c=50/a;
-	
+// changes made after commit 
 		System.out.println("divi is "+c);
 	}
 	catch(ArithmeticException e)
