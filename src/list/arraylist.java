@@ -14,7 +14,7 @@ public class arraylist {
 		arraylistone.add("Banana");
 		arraylistone.add("Kiwi");
 		arraylistone.add("Banana"); // allow duplicate 
-		
+		//lets check in git is updates 
 		System.out.println(arraylistone); // maintain insertion   order 
 		System.out.println(arraylistone.get(2));
 		System.out.println("First Element is "+ arraylistone.getFirst());
